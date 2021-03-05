@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int i;
+	int i;
 	char vChar[5];
 	int vInt[5];
 	double vDouble[5];
